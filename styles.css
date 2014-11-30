@@ -1,0 +1,47 @@
+/* GENERAL STYLING */
+
+h1, h2, h3, h4, h5, h6 {
+
+}
+
+p {
+
+}
+
+img {
+
+}
+
+/* FORM SEARCH OPTIONS */
+
+#search-options {
+
+}
+
+.input {
+
+}
+
+.property {
+	min-height: 20px;
+	min-width: 100px;
+	max-height: 50px;
+	max-width: 200px;
+	border: 1px solid black;
+
+}
+
+
+/* RESULTS */
+
+#results {
+
+}
+
+#photo {
+
+}
+
+#results-text {
+
+}
